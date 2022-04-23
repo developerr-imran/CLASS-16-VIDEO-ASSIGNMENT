@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER SECTION START */
+
+.header-section{
+    background-color: #57606f;
+}
+
+.header-logo {
+  width: 112px;
+  height: auto;
+}
+
+.header-logo a{}
+
+.header-logo img{
+    max-width: 100%;
+}
+
+
+.header-menu{
+    text-align: right;
+
+}
+
+.header-menu ul{}
+
+.header-menu ul li{
+    display: inline-block;
+}
+
+.header-menu ul li a {
+    text-decoration: none;
+    padding: 15px;
+    line-height: 26px;
+    display: inline-block;
+    color: #ffffff;
+  }
+/* HEADER SECTION END */
+
+
+/* BANNER SECTION START */
+
+.banner-section{
+    background-image: url(./picture/bannerimg.webp);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.banner-section h2{
+    color: #ffffff;
+    background-color: rgb(41, 105, 84);
+    display: inline-block;
+    padding: 10px;
+}
+
+.banner-section p{
+    font-size: 30px;
+    color: chocolate;
+    background-color: #7bed9f;
+    width: 30%;
+    margin: auto;
+}
+/* BANNER SECTION END */
+
+
+/* ABOUT SECTION START */
+.about-section{
+    background-color: #C3C7C7;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about-section h2{}
+
+.about-section p{
+    width: 60%;
+    margin: auto;
+}
+/* ABOUT SECTION END */
+
+/* SARVICE SECTION START */
+
+.service-section{}
+
+.service-section h2{
+    color: #5352ed;
+}
+
+.service-section span{
+    font-size: 30px;
+    color: rgb(97, 150, 150);
+}
+
+.service-section p{
+    color: #2f3542;
+}
+/* SARVICE SECTION END */
+
+
+/* PRODUCT SECTION START */
+
+.product-section{
+    background-color: #ffffff;
+}
+
+.product-image{
+    width: 200px;
+    height: auto;
+}
+
+.product-image img{
+    max-width: 100%;
+}
+
+.product-about{}
+
+.product-about ul{}
+
+.product-about ul li{
+    list-style: none;
+    box-sizing: border-box;
+    border: 1px solid #574040;
+    margin-bottom: 5px;
+    background-color: gray;
+    padding: 4px;
+}
+
+.product-about ul li a{
+    text-decoration: none;
+    color: rgb(75, 37, 24);
+    padding: 10px;
+}
+/* PRODUCT SECTION END */
+
+/* CONTACT SECTION START */
+.contact-section{
+    background-color: #f1f2f6;
+}
+/* CONTACT SECTION END */
+
+/* FOOTER SECTION START */
+/* FOOTER SECTION END */
